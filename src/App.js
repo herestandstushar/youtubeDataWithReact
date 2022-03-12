@@ -11,7 +11,7 @@ import DataVisualization from './components/dataVisualization';
 const  App = ()=> {
   return (
     <div>
-      <DataVisualization></DataVisualization>
+      <DataVisualization />
 
     </div>
   )
