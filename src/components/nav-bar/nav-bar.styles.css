@@ -1,0 +1,22 @@
+.navbar-box {
+    height: 100%;
+    background-color: rgba(97, 97, 97, 0.089);
+    border-right: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+.navbar-content{
+    padding: 40px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.navbar-content .headings
+{
+    padding-top: 20px;
+    color: black;
+}
+.navbar-content span:hover
+{
+    font-weight: bold;
+    cursor: pointer;
+}

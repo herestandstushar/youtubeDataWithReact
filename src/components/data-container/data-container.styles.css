@@ -1,0 +1,26 @@
+.data-box
+{
+    width: 50%;
+    margin: 100px 0px 0px 100px;
+    /* background-color: lightgray; */
+}
+.data-box h1{
+    color: rgb(97, 161, 182);
+    cursor: pointer;
+}
+.data-box h1:hover{
+    color: rgb(114, 197, 245);
+}
+.data-content 
+{   
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-top: 20px;
+}
+.data-content img
+{
+    padding: 80px 80px;
+    width: 70%;
+    height: 50%;
+}
